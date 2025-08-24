@@ -70,7 +70,7 @@ It’s that simple. No coding skills needed — just follow the steps and enjoy 
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=400&height=40&lines=What+is+king-bot%3F" alt="𝗦𝗛𝗔𝗛𝗜𝗗 𝗞𝗜𝗡𝗚-𝗠𝗗 ?" />
 </div>
 
-PATHAN-BOT is a **powerful, multi-device WhatsApp bot** packed with **400+ fun and utility commands**, designed to make your WhatsApp groups more entertaining and easier to manage.  
+SHAHID KING 👿 is a **powerful, multi-device WhatsApp bot** packed with **400+ fun and utility commands**, designed to make your WhatsApp groups more entertaining and easier to manage.  
 Created with passion by **Shafi pathan**, it’s built on the robust Baileys library for reliable, lightning-fast WhatsApp automation.
 
 ---
